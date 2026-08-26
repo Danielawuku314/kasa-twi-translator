@@ -1,0 +1,11 @@
+[
+  {"id": 1, "category": "Greetings", "english": "Good morning", "twi": "Maakye"},
+  {"id": 2, "category": "Greetings", "english": "Good afternoon", "twi": "Maaha"},
+  {"id": 3, "category": "Greetings", "english": "Good evening", "twi": "Maadwo"},
+  {"id": 4, "category": "Basics", "english": "Thank you", "twi": "Medaase"},
+  {"id": 5, "category": "Basics", "english": "Please", "twi": "Mepaakyew"},
+  {"id": 6, "category": "Basics", "english": "Yes", "twi": "Aane"},
+  {"id": 7, "category": "Basics", "english": "No", "twi": "Daabi"},
+  {"id": 8, "category": "Travel", "english": "Where is the bathroom?", "twi": "Agyananhea wo he?"},
+  {"id": 9, "category": "Travel", "english": "How much is this?", "twi": "Eje ahe?"}
+]
